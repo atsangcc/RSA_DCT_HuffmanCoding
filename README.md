@@ -4,6 +4,8 @@ Image Encryption by RSA Algorithm upon Image Compression by DCT and Huffman Codi
 
 --- --- --- ---
 
+[![Watch the video](./WorkFlowIllustration.jpg)](https://www.youtube.com/watch?v=7nT7JGZMbtM)
+
 Commands for running the applications will be:
 - python SenderApp.py ; and
 - python VerifierApp.py .
