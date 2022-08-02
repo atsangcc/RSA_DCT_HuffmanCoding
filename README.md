@@ -13,7 +13,7 @@ Commands for running the applications will be:
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=7nT7JGZMbtM"
+    src="https://www.youtube.com/embed/7nT7JGZMbtM"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
