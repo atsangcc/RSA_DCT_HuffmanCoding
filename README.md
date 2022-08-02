@@ -16,9 +16,9 @@ Commands for running the applications are :
 --- --- --- ---
 
 
-<a href="./CodingReport.pdf">For details , please refer CodingReport.pdf</a>
+For details , please refer to <a href="./CodingReport.pdf">CodingReport.pdf</a>
 
-<img src="./WorkflowIllustration.jpg">
+![Work Flow](./WorkFlowIllustration.jpg)
 
 
 
