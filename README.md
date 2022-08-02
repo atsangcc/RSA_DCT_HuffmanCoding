@@ -21,6 +21,6 @@ For details , please refer to <a href="./CodingReport.pdf">CodingReport.pdf</a>
 ![Work Flow](./WorkFlowIllustration.jpg)
 
 
-
+Index Terms — # Image Encryption. # Image Compression. # Huffman Coding. # RSA Algorithm
 
 
