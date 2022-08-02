@@ -16,10 +16,10 @@ Commands for running the applications will be:
 --- --- --- ---
 
 
-<image src="./ReadMe_Report.pdf">
+<!-- <image src="./ReadMe_Report.pdf"> -->
 <!-- [embed]./ReadMe_Report.pdf[/embed] -->
 
-<!-- <embed src="./ReadMe_Report.pdf" type="application/pdf"> -->
+<embed src="./CodingReport.pdf" type="application/pdf">
 
 
 <!-- <img src="./WorkFlowIllustration.jpg" alt="Alt text" title="Optional Title"> -->
