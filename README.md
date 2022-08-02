@@ -4,7 +4,7 @@ Image Encryption by RSA Algorithm upon Image Compression by DCT and Huffman Codi
 
 --- --- --- ---
 
-[![Watch the video](./WorkFlowIllustration.jpg)](https://www.youtube.com/watch?v=7nT7JGZMbtM)
+[![Watch the video](./WorkFlowIllustration_Youtube.jpg)](https://youtu.be/VM4CL5XHZqI)
 
 Commands for running the applications will be:
 - python SenderApp.py ; and
@@ -12,18 +12,14 @@ Commands for running the applications will be:
 
 --- --- --- ---
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/7nT7JGZMbtM"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
+
+
+[embed]./Readme_Report.pdf[/embed]
+
+<!-- <embed src="./Readme_Report.pdf" type="application/pdf"> -->
+
 
 <img src="./WorkFlowIllustration.jpg" alt="Alt text" title="Optional Title">
-
-<embed src="./Readme_Report.pdf" type="application/pdf">
 
 
 
