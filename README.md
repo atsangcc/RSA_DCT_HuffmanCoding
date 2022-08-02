@@ -18,9 +18,10 @@ Commands for running the applications are :
 
 For details , please refer to <a href="./CodingReport.pdf">CodingReport.pdf</a>
 
+Twitter Discussion :
+<a href="https://twitter.com/AlbertTsangPoly/status/1554570477414547456?s=20&t=dZ2fl5ynrexyImT1fglRnA">Index Terms — # Image Encryption. # Image Compression. # Huffman Coding. # RSA Algorithm @ AlbertTsangPoly </a>
+
+
 ![Work Flow](./WorkFlowIllustration.jpg)
-
-
-Index Terms — # Image Encryption. # Image Compression. # Huffman Coding. # RSA Algorithm
 
 
