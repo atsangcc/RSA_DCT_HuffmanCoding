@@ -18,7 +18,6 @@ Commands for running the applications will be:
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
-</iframe>
 
 <img src="./WorkFlowIllustration.jpg" alt="Alt text" title="Optional Title">
 
